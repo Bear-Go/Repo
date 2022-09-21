@@ -1,2 +1,1 @@
-# random-walk-simulation
-R 与 Processing 模拟随机游走
+# 存放零星代码的仓库
